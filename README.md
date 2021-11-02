@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there! 👋:metal:
 
 
 My name is **Tayde (TayDeVR)** 🧑🥽
