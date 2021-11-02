@@ -1,4 +1,4 @@
-### Hi there! 👋:metal:
+### Hi there! 👋
 
 
 My name is **Tayde (TayDeVR)** 🧑🥽
@@ -12,8 +12,8 @@ Experience:
 ---------------
  - XR Developer 🖥️⌨️🖱️
  - Unity and XR development teacher 👨‍🏫
- - XR advisor 
- - VR evangelist
+ - XR advisor 💬
+ - VR evangelist 🗣️
 
 
 Skills:
