@@ -13,7 +13,7 @@ Experience:
  - XR Developer 🖥️⌨️🖱️
  - Unity and XR development teacher 👨‍🏫
  - XR advisor 💬
- - VR evangelist 🗣️
+ <!-- - VR evangelist 🗣️-->
 
 
 Skills:
