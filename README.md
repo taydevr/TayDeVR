@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 
-My name is **Tayde (TayDeVR)** 🥽
+My name is **Tayde (TayDeVR)** 🧑🥽
 ---------------
 XR --> VR/MR/AR Developer since 2010. 🧑‍💻 :mexico:
 > The metaverse is coming and it is not owned by a single company! 😄
