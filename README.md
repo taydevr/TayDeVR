@@ -40,7 +40,7 @@ Interests:
 
 📫 How to reach me:
   ---------------
-  ⚡ Twitter:  @Tay_DeVR  
+  ⚡ Twitter:  @tay_devr  
   ⚡ Oculus:   @taydevr  
   ⚡ Linkedin: https://linkedin.com/in/taydevr  
   ⚡ Trello:   https://trello.com/taydevr  
