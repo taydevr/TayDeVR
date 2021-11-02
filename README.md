@@ -3,12 +3,17 @@
 
 My name is **Tayde (TayDeVR)** 🥽
 ---------------
-XR --> VR/MR/AR Developer since 2010. 🧑‍💻
+XR --> VR/MR/AR Developer since 2010. 🧑‍💻 :mexico:
 > The metaverse is coming and it is not owned by a single company! 😄
 
 💪🏼 I am constantly learning, closely following the evolution of virtual reality and extended realities.
 
-
+Experience:
+---------------
+ - XR Developer 🖥️⌨️🖱️
+ - Unity and XR development teacher 👨‍🏫
+ - XR advisor 
+ - VR evangelist
 
 
 Skills:
@@ -19,16 +24,18 @@ Skills:
  - ✅ OSG
  - ✅ Unity
  - ✅ Shaders
- - ✅ Coming soon Unreal
+ - ✅ Coming soon Unreal 
 
 
 Interests:
 ---------------
  - **Extended Realitys** 🥽
- - VR Games 👀
- - Videogames🕹️🎮
- - Movies 🎥
- - Motorcycles 🏍️
+ - Gaming 🕹️🎮
+ - Technology 🚀
+ - Programming ⌨️
+ - Arduino 🤖
+ - Jigsaw puzzles 🧩
+ - Board games 🎲
 
 
 📫 How to reach me:
