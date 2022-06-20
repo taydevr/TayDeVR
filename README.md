@@ -24,7 +24,6 @@ Skills:
  - ✅ OSG
  - ✅ Unity
  - ✅ Shaders
- - ✅ Coming soon Unreal 
 
 
 Interests:
