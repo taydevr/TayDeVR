@@ -58,9 +58,9 @@
 
 --------------------------------
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taydevr&show_icons=true&locale=en&layout=compact" alt="taydevr" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taydevr&show_icons=true&locale=en&layout=compact" alt="taydevr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taydevr&show_icons=true&locale=en" alt="taydevr" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=taydevr&show_icons=true&locale=en" alt="taydevr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taydevr&" alt="taydevr" /></p>
 
