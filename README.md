@@ -53,7 +53,7 @@
 <a href="https://linkedin.com/in/taydevr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taydevr" height="30" width="40" /></a>
 <a href="https://trello.com/taydevr  " target="blank"><img align="center" src="https://user-images.githubusercontent.com/13432607/29981988-82cec158-8f58-11e7-9f26-473079c2a9b1.png" alt="taydevr" height="40" width="40" /></a>
 
-- <a href="#"><img align="center" src="https://avatars.githubusercontent.com/u/7948669?v=4" alt="aydevr" height="40" width="40" /></a> @taydevr  
+- <picture><img align="center" src="https://avatars.githubusercontent.com/u/7948669?v=4" alt="aydevr" height="40" width="40" /></picture> @taydevr  
 
 
 --------------------------------
