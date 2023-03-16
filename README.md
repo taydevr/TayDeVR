@@ -46,6 +46,7 @@
 - Jigsaw puzzles 🧩
 - Board games 🎲
 
+<h3 align="left"><a href="https://taydevr.github.io/Portafolio/">🥽 Portfolio</a></h3>
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
